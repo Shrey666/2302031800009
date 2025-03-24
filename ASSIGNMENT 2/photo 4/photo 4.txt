@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blogs</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Blogs</h1>
+        <p>Discover The Beauty, Challenge, And Tranquility That Come With Venturing Into High Altitudes. "Mountain Adventures" Is Your Ultimate Guide</p>
+        <div class="blog-cards">
+            <div class="card">
+                <img src="image1.jpg" alt="Cultural Heritage Through Design And Creativity">
+                <h2>Cultural Heritage Through Design And Creativity</h2>
+                <p>This Blog Could Showcase The World's Most Stunning Viewpoints And Scenic Spots. Each Post Could Feature A Different Viewpoint, Such As Mountaintop Lookouts, Panoramic City Vistas, Or Picturesque Coastal Cliffs, Offering Practical Advice For Getting There, Capturing The Best Photos, And Enjoying The Breathtaking Scenery.</p>
+                <a href="#" class="read-more">Read More</a>
+            </div>
+            <div class="card">
+                <img src="image2.jpg" alt="Scenic Views And Spectacular Sights">
+                <h2>Scenic Views And Spectacular Sights</h2>
+                <p>This Blog Could Showcase The World's Most Stunning Viewpoints And Scenic Spots. Each Post Could Feature A Different Viewpoint, Such As Mountaintop Lookouts, Panoramic City Vistas, Or Picturesque Coastal Cliffs, Offering Practical Advice For Getting There, Capturing The Best Photos, And Enjoying The Breathtaking Scenery.</p>
+                <a href="#" class="read-more">Read More</a>
+            </div>
+            <div class="card">
+                <img src="image3.jpg" alt="Exploring The World Through Food And Drink">
+                <h2>Exploring The World Through Food And Drink</h2>
+                <p>This Blog Could Showcase The World's Most Stunning Viewpoints And Scenic Spots. Each Post Could Feature A Different Viewpoint, Such As Mountaintop Lookouts, Panoramic City Vistas, Or Picturesque Coastal Cliffs, Offering Practical Advice For Getting There, Capturing The Best Photos, And Enjoying The Breathtaking Scenery.</p>
+                <a href="#" class="read-more">Read More</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

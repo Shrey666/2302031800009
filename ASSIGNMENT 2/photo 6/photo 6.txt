@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Mountain Hiking Images</title>
+</head>
+<body>
+    <div class="image-container">
+        <div class="image-item">
+            <img src="image1.jpg" alt="Hiker on mountain" />
+        </div>
+        <div class="image-item">
+            <img src="image2.jpg" alt="Beautiful valley view" />
+        </div>
+        <div class="image-item">
+            <img src="image3.jpg" alt="Hiker in snowy mountains" />
+        </div>
+    </div>
+</body>
+</html>

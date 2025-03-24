@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mountain Images</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            margin: 0;
+        }
+        .image-container {
+            display: flex;
+            margin: 20px;
+        }
+        .image-container img {
+            width: 300px; /* Adjust size as needed */
+            height: auto;
+            margin: 0 10px;
+            border-radius: 10px; /* Optional: for rounded corners */
+        }
+    </style>
+</head>
+<body>
+    <div class="image-container">
+        <img src="image1_url.jpg" alt="Mountain Landscape 1">
+        <img src="image2_url.jpg" alt="Mountain Landscape 2">
+        <img src="image3_url.jpg" alt="Mountain Landscape 3">
+    </div>
+</body>
+</html>
